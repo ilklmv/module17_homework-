@@ -1,2 +1,2 @@
 # learn-js
-js examples for fast learning
+Файлы с выполнением заданий находятся в папке Module 17
